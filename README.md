@@ -8,3 +8,6 @@
     <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 </p>
+
+
+[![shshshrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shshshrj)](https://github.com/anuraghazra/github-readme-stats)
