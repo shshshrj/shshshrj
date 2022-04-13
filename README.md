@@ -31,6 +31,14 @@ shshshshrj@gmail.com
 ### 💡 툴 
 ------------
 ### 💻 언어
+
+<img src="https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript&logoColor=white"/>
+
 ------------
 ### Stats
 [![shshshrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shshshrj&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
