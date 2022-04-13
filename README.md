@@ -3,18 +3,27 @@
 ## ✅ 목차
 - 소개
 - 이메일
-- portfolio
+- Portfolio
 - 기술
 - 툴
 - 언어
-- stats
-- most-langs
+- Stats
+- Most_Langs
 ------------
-### 😀 introduce
+### 😀 Introduce
+안녕하세요 저는 윤준형입니다.
+현재 코딩 공부와 취업 준비를 하고 있습니다.
+
 ------------
-### 📧 email
+### 📧 Email
+
+shshshshrj@gmail.com
+
 ------------
-### 📁 git blog
+### 📁 Git
+
+<https://shshshrj.github.io/>
+
 ------------
 ### ⚒️ 기술
 ------------
@@ -22,8 +31,9 @@
 ------------
 ### 💻 언어
 ------------
-
+### Stats
 [![shshshrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shshshrj&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ------------
+### Most_Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shshshrj&layout=compact&theme=tokyonight&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 ------------
