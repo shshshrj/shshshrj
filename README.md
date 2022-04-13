@@ -1,21 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20GitHub%20profile&descAlignY=51&descAlign=62)
-<p align='center'> ✅ 목차 </p>
-<ul align='center'>
-  <li> 소개 </li>
-  <li> 이메일 </li>
-  <li> portfolio </li>
-  <li> 기술 </li>
-  <li> 툴 </li>
-  <li> 언어 </li>  
-  <li> stats </li>
-  <li> Langs </li>
-</ul>
-<p align='center'> 😀 introduce </p>
-<p align='center'> 📧 email </p>
-<p align='center'> 📁 git blog </p>
-<p align='center'> ⚒️ 기술 </p>
-<p align='center'> 💡 툴 </p>
-<p align='center'> 💻 언어 </p>
+
+## ✅ 목차
+- 소개
+- 이메일
+- portfolio
+- 기술
+- 툴
+- 언어
+- stats
+- most-langs
+------------
+# 😀 introduce
+# 📧 email
+# 📁 git blog
+# ⚒️ 기술
+# 💡 툴 
+# 💻 언어
 
 [![shshshrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shshshrj&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
