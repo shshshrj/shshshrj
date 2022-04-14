@@ -28,41 +28,38 @@
   
 ------------
 
+<div display= "flex", justify-content= "center">
+  <div width="250px",text-align-last="center">
+  
+  ### 📧 Email
 
+  shshshshrj@gmail.com
 
-### 📧 Email
+  </div>
+  <div width="250px" text-align-last="center">  
 
-shshshshrj@gmail.com
+  ### 📁 Git
 
+  <https://shshshrj.github.io/>
 
+  </div>
+</div>
 
 ------------
 
-
-
-### 📁 Git
-
-<https://shshshrj.github.io/>
-
-
-
-------------
-
-
+<div align="center">
 
 ### ⚒️ 기술
 
-
-
-------------
-
-
-
-### 💡 툴 
-
-
+</div>
 
 ------------
+
+
+
+### 💡 툴/서버
+
+
 
 
 
